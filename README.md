@@ -1,6 +1,6 @@
 # Autonomous Navigation
 
-A ROS2 Python package for autonomous robot navigation, implementing a complete mission with waypoint navigation, obstacle avoidance, station detection, and precision docking.
+A ROS2 Python package for autonomous robot navigation and docking on charging station, implementing a complete mission with waypoint navigation, obstacle avoidance, station detection, and precision docking.
 
 For a video demonstration, see the documentation.
 
